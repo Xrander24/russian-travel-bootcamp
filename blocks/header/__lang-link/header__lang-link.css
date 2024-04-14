@@ -2,11 +2,13 @@
     font-size: 24px;
     font-weight: 400;
     line-height: 28px;
-    margin-right: 18px;
+    color: #fff;
+    text-decoration: none;
+    transition: opacity 100ms;
 }
 
-.header__lang-link:last-of-type {
-    margin: 0;
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 340px) {
