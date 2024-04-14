@@ -1,0 +1,20 @@
+.cover {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 1184px;
+    aspect-ratio: 16/10;
+    margin: 92px auto 0 auto;
+    background-image: url("../../images/cover__background.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media screen and (max-width: 800px) {
+    .cover {
+        margin: 88px auto 0 auto;
+    }
+}
