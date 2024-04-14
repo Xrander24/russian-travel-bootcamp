@@ -5,3 +5,5 @@
 
 В проекте использована адаптивная и отзывчивая верстки. Использованы технологии: flexbox, grid, media запросы, HTML,
 CSS, также использовалась методология БЭМ.
+
+[Ссылка на GitHub Pages](https://xrander24.github.io/russian-travel-bootcamp/)
